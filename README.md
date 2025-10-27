@@ -1,5 +1,6 @@
-# Ranjith
+# A P Ranjith Kumar
 # Aspiring Data Scientist
 
 
-Well-respected Computer Science graduate with excellent skills in Problem solving, Python, SQL, Machine Learning,Deep learning and Data Visualization. Seeking to leverage statistical modeling, data wrangling, and predictive analytics to deliver real-world business solutions. Experienced with technologies such as Pandas, NumPy,Excel  and Power BI in extracting actionable insights from large datasets. Looking to assume an entry-level Data Scientist position to enable data-driven decision-making and ongoing improvement.
+Analytical and motivated Computer Science Engineer skilled in Python, Machine Learning,Deep Learning and Cloud technologies. Passionate about solving complex data challenges and building intelligent systems using AI and Generative AI. Seeking a data- driven or AI-focused role where I can apply technical expertise, innovation, and problem- solving to deliver impactful business insights.
+
